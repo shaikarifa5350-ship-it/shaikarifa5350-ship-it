@@ -23,6 +23,7 @@
 
 #### 📫 Connect with Me
 - GitHub: @shaikarifa5350-ship-it
+-  [LinkedIn](https://www.linkedin.com/in/arifa-begum-shaik-0a0849273)
 
 ---
 ✨ *"Dream Big, Spark More!"* ✨
