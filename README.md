@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm Arifa Begum! 👋⚡
 
-<!--
-**shaikarifa5350-ship-it/shaikarifa5350-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electrical Engineer** | Power Systems Researcher
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 My Main Project
+**Hybrid PSO-SSA Algorithm for Radial Distribution Systems**
+> A Hybrid approach for Maximizing Savings & Minimizing Power Loss by optimal DG allocation.
+
+🛠️ **Tech Stack:** MATLAB | Python (Basics) | SQL | Excel | Power Flow Analysis
+
+---
+
+#### 📊 My Skills
+- **Programming:** Python, SQL
+- **Tools:** MS Excel, MATLAB
+- **Core:** Power Systems, Optimization Algorithms
+
+#### 🌱 Currently Learning
+- Advanced Optimization Techniques
+- Data Analysis with Python & SQL
+
+#### 📫 Connect with Me
+- GitHub: @shaikarifa5350-ship-it
+
+---
+✨ *"Dream Big, Spark More!"* ✨
